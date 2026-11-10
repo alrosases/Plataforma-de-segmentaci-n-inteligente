@@ -1,0 +1,6 @@
+{
+  "name": "SEGMENTA360 – Plataforma de Segmentación Inteligente",
+  "description": "Plataforma empresarial de segmentación avanzada de clientes, análisis multivariado, validación de modelos de clustering y consultoría estratégica con Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
